@@ -21,6 +21,9 @@ export default defineConfig({
       }
     },
   },
+  preview: {
+    allowedHosts: ['job-listings-vue-demo-fe.onrender.com'], // Add the allowed host here
+  },
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
