@@ -1,0 +1,536 @@
+{
+  "jobs": [
+    {
+      "id": "471e",
+      "type": "Remote",
+      "title": "Dakota Logan",
+      "description": "Non voluptas eaque e",
+      "salary": "$100K - $125K",
+      "location": "Veritatis sed minus ",
+      "company": {
+        "name": "Patel Garza Associates",
+        "description": "Non consectetur sin",
+        "contactEmail": "qypaqovax@mailinator.com",
+        "contactPhone": "+1 (515) 538-6999"
+      }
+    },
+    {
+      "type": "Remote",
+      "title": "Fullstack Engineer",
+      "description": "Laudantium sed haru",
+      "salary": "$80K - $90K",
+      "location": "Boston, MA",
+      "company": {
+        "name": "Paul and Salas Inc",
+        "description": "Esse possimus inven",
+        "contactEmail": "reposipi@mailinator.com",
+        "contactPhone": "+1 (794) 626-5788"
+      },
+      "id": "947b"
+    },
+    {
+      "id": "162f",
+      "type": "Remote",
+      "title": "Bevis Meyers",
+      "description": "Ex quo eum aut rerum",
+      "salary": "$50K - $60K",
+      "location": "Eum fugit anim quos",
+      "company": {
+        "name": "Berger Coffey Plc",
+        "description": "Amet aute veniam m",
+        "contactEmail": "pexobusaw@mailinator.com",
+        "contactPhone": "+1 (835) 606-7441"
+      }
+    },
+    {
+      "id": "31b1",
+      "type": "Internship",
+      "title": "Vanna Livingston",
+      "description": "Est eaque perspiciat",
+      "salary": "$50K - $60K",
+      "location": "Eaque commodo culpa ",
+      "company": {
+        "name": "Kane Bray Trading",
+        "description": "Et dolore libero ips",
+        "contactEmail": "zadu@mailinator.com",
+        "contactPhone": "+1 (696) 452-8872"
+      }
+    },
+    {
+      "id": "38e6",
+      "type": "Remote",
+      "title": "Quinlan Ellison",
+      "description": "Id eos ullam volupt",
+      "salary": "$60K - $70K",
+      "location": "Id consectetur volu",
+      "company": {
+        "name": "Mathews and Robbins Trading",
+        "description": "Est id ratione velit",
+        "contactEmail": "ryzyguxyk@mailinator.com",
+        "contactPhone": "+1 (931) 963-8605"
+      }
+    },
+    {
+      "id": "0c61",
+      "type": "Remote",
+      "title": "Xander Lynch",
+      "description": "Autem in rerum beata",
+      "salary": "$90K - $100K",
+      "location": "Et aut nemo in digni",
+      "company": {
+        "name": "Moran and Flynn Traders",
+        "description": "Adipisicing voluptat",
+        "contactEmail": "surygyh@mailinator.com",
+        "contactPhone": "+1 (305) 286-2496"
+      }
+    },
+    {
+      "id": "93aa",
+      "type": "Internship",
+      "title": "Morgan Chase",
+      "description": "Consectetur fugit p",
+      "salary": "$60K - $70K",
+      "location": "Sint quis consequatu",
+      "company": {
+        "name": "Harrison and Gentry Co",
+        "description": "Nihil eum dolorem ut",
+        "contactEmail": "cipahah@mailinator.com",
+        "contactPhone": "+1 (914) 345-9545"
+      }
+    },
+    {
+      "id": "bc6c",
+      "type": "Internship",
+      "title": "Lavinia Dunlap",
+      "description": "Eum irure dolor natu",
+      "salary": "$60K - $70K",
+      "location": "Id anim aliquid sed ",
+      "company": {
+        "name": "Lyons Albert Plc",
+        "description": "Adipisci ex maiores ",
+        "contactEmail": "keho@mailinator.com",
+        "contactPhone": "+1 (462) 984-1852"
+      }
+    },
+    {
+      "id": "e576",
+      "type": "Internship",
+      "title": "Theodore Weiss",
+      "description": "Amet aut beatae asp",
+      "salary": "Under $50K",
+      "location": "Nam aute possimus u",
+      "company": {
+        "name": "Rose Gross Associates",
+        "description": "Ut elit dolorem ani",
+        "contactEmail": "befehixori@mailinator.com",
+        "contactPhone": "+1 (378) 628-5416"
+      }
+    },
+    {
+      "id": "e3a2",
+      "type": "Remote",
+      "title": "Arsenio Medina",
+      "description": "Sint mollitia necess",
+      "salary": "$60K - $70K",
+      "location": "Molestias hic conseq",
+      "company": {
+        "name": "Lowery and Reyes LLC",
+        "description": "Duis aut autem conse",
+        "contactEmail": "dino@mailinator.com",
+        "contactPhone": "+1 (479) 261-4211"
+      }
+    },
+    {
+      "id": "a627",
+      "type": "Internship",
+      "title": "Kathleen William",
+      "description": "Provident error del",
+      "salary": "$100K - $125K",
+      "location": "Non et commodi dolor",
+      "company": {
+        "name": "Woods and Kirkland Trading",
+        "description": "Esse tempora culpa c",
+        "contactEmail": "vemeqypu@mailinator.com",
+        "contactPhone": "+1 (746) 905-3165"
+      }
+    },
+    {
+      "id": "5bc0",
+      "type": "Part-Time",
+      "title": "Lysandra Prince",
+      "description": "Porro sunt aute at c",
+      "salary": "$175K - $200K",
+      "location": "Molestiae sed animi",
+      "company": {
+        "name": "Paul Bradshaw Plc",
+        "description": "Ea ut exercitation t",
+        "contactEmail": "rirex@mailinator.com",
+        "contactPhone": "+1 (104) 128-2998"
+      }
+    },
+    {
+      "id": "4a42",
+      "type": "Internship",
+      "title": "Alana Butler",
+      "description": "Irure excepteur non ",
+      "salary": "$50K - $60K",
+      "location": "Odit autem cumque po",
+      "company": {
+        "name": "Fox Chase LLC",
+        "description": "Architecto quaerat a",
+        "contactEmail": "tebyji@mailinator.com",
+        "contactPhone": "+1 (933) 116-6755"
+      }
+    },
+    {
+      "id": "9d14",
+      "type": "Remote",
+      "title": "Rhonda Bradley",
+      "description": "Corporis unde volupt",
+      "salary": "$125K - $150K",
+      "location": "Laudantium elit et",
+      "company": {
+        "name": "Booth and Hodges Co",
+        "description": "Officia consequat S",
+        "contactEmail": "pesiqi@mailinator.com",
+        "contactPhone": "+1 (168) 293-4063"
+      }
+    },
+    {
+      "id": "30a3",
+      "type": "Part-Time",
+      "title": "Allistair Estrada",
+      "description": "Nam sint quia omnis ",
+      "salary": "$60K - $70K",
+      "location": "Et quia quia culpa c",
+      "company": {
+        "name": "Buchanan Herring LLC",
+        "description": "Molestias amet omni",
+        "contactEmail": "peveku@mailinator.com",
+        "contactPhone": "+1 (236) 195-4664"
+      }
+    },
+    {
+      "id": "1f82",
+      "type": "Internship",
+      "title": "Raya Wallace",
+      "description": "Possimus reprehende",
+      "salary": "$80K - $90K",
+      "location": "Itaque dolor ut anim",
+      "company": {
+        "name": "Farmer Lara Co",
+        "description": "Totam consequuntur d",
+        "contactEmail": "wavewyj@mailinator.com",
+        "contactPhone": "+1 (145) 289-3793"
+      }
+    },
+    {
+      "id": "ea9f",
+      "type": "Internship",
+      "title": "Stewart Barber",
+      "description": "Dicta maxime laborum",
+      "salary": "Under $50K",
+      "location": "Enim cupidatat earum",
+      "company": {
+        "name": "Montoya and Jordan Inc",
+        "description": "Vel consectetur maio",
+        "contactEmail": "jajydi@mailinator.com",
+        "contactPhone": "+1 (776) 964-1658"
+      }
+    },
+    {
+      "id": "f65c",
+      "type": "Remote",
+      "title": "Selma Roth",
+      "description": "Quis qui ipsum tota",
+      "salary": "$100K - $125K",
+      "location": "Totam cupidatat ut n",
+      "company": {
+        "name": "Parker and Jacobs Co",
+        "description": "Et optio eum elit ",
+        "contactEmail": "wuroty@mailinator.com",
+        "contactPhone": "+1 (869) 958-8192"
+      }
+    },
+    {
+      "id": "2579",
+      "type": "Remote",
+      "title": "Sheila Farmer",
+      "description": "Aspernatur ut dolor ",
+      "salary": "$80K - $90K",
+      "location": "Sed optio ipsam qua",
+      "company": {
+        "name": "Pearson Joseph Trading",
+        "description": "Sit perferendis exp",
+        "contactEmail": "kejemecyz@mailinator.com",
+        "contactPhone": "+1 (914) 567-5917"
+      }
+    },
+    {
+      "id": "9f67",
+      "type": "Full-Time",
+      "title": "Germane Johnston",
+      "description": "Aut cillum labore at",
+      "salary": "Under $50K",
+      "location": "Nisi ad in officiis ",
+      "company": {
+        "name": "Brady Burke Plc",
+        "description": "Consectetur et excep",
+        "contactEmail": "dobykofesi@mailinator.com",
+        "contactPhone": "+1 (897) 336-2139"
+      }
+    },
+    {
+      "id": "e8c2",
+      "type": "Full-Time",
+      "title": "Zachery Velazquez",
+      "description": "Sed sint temporibus ",
+      "salary": "$100K - $125K",
+      "location": "Nulla eveniet illo ",
+      "company": {
+        "name": "Leach Hickman Associates",
+        "description": "Libero molestias do ",
+        "contactEmail": "xuduzide@mailinator.com",
+        "contactPhone": "+1 (416) 863-6238"
+      }
+    },
+    {
+      "id": "3a0b",
+      "type": "Full-Time",
+      "title": "Linda Haley",
+      "description": "Exercitation maxime ",
+      "salary": "$80K - $90K",
+      "location": "Sunt saepe est moles",
+      "company": {
+        "name": "Kaufman and Pacheco Traders",
+        "description": "Consectetur quibusd",
+        "contactEmail": "nocozalof@mailinator.com",
+        "contactPhone": "+1 (442) 179-8833"
+      }
+    },
+    {
+      "id": "7a94",
+      "type": "Internship",
+      "title": "Price Garner",
+      "description": "Assumenda architecto",
+      "salary": "$60K - $70K",
+      "location": "Impedit quia velit",
+      "company": {
+        "name": "Sims Guzman Inc",
+        "description": "Dicta possimus nihi",
+        "contactEmail": "zozifija@mailinator.com",
+        "contactPhone": "+1 (464) 166-7574"
+      }
+    },
+    {
+      "id": "af0f",
+      "type": "Remote",
+      "title": "Jada Parsons",
+      "description": "Veniam veniam sunt",
+      "salary": "Over $200K",
+      "location": "Cumque est accusamus",
+      "company": {
+        "name": "Pacheco and Wallace Traders",
+        "description": "Facilis in repellend",
+        "contactEmail": "gymigube@mailinator.com",
+        "contactPhone": "+1 (333) 674-5546"
+      }
+    },
+    {
+      "id": "36c5",
+      "type": "Internship",
+      "title": "Darrel Cantrell",
+      "description": "Veniam labore sit ",
+      "salary": "$100K - $125K",
+      "location": "Sit porro enim labo",
+      "company": {
+        "name": "Boone Mueller Traders",
+        "description": "Sit enim consectetur",
+        "contactEmail": "pigiquv@mailinator.com",
+        "contactPhone": "+1 (945) 804-9295"
+      }
+    },
+    {
+      "id": "ca15",
+      "type": "Internship",
+      "title": "Velma Waller",
+      "description": "Molestias magna sit",
+      "salary": "$60K - $70K",
+      "location": "Qui praesentium quia",
+      "company": {
+        "name": "Ford Mccray LLC",
+        "description": "Ex et ab consectetur",
+        "contactEmail": "gajuzatyb@mailinator.com",
+        "contactPhone": "+1 (224) 956-4243"
+      }
+    },
+    {
+      "id": "8498",
+      "type": "Internship",
+      "title": "Maite Frank",
+      "description": "Quis culpa quasi mi",
+      "salary": "$50K - $60K",
+      "location": "Ut reprehenderit est",
+      "company": {
+        "name": "Joseph Hogan Trading",
+        "description": "Beatae beatae doloru",
+        "contactEmail": "pazobu@mailinator.com",
+        "contactPhone": "+1 (363) 279-3954"
+      }
+    },
+    {
+      "id": "fe17",
+      "type": "Part-Time",
+      "title": "Joel Weaver",
+      "description": "Magnam ad soluta ape",
+      "salary": "$70K - $80K",
+      "location": "In voluptatem repreh",
+      "company": {
+        "name": "Snow Buckley Plc",
+        "description": "Quo magni reprehende",
+        "contactEmail": "dudase@mailinator.com",
+        "contactPhone": "+1 (944) 685-4016"
+      }
+    },
+    {
+      "id": "8456",
+      "type": "Remote",
+      "title": "Serina Hatfield",
+      "description": "Adipisci cum at volu",
+      "salary": "$175K - $200K",
+      "location": "Elit ipsum id id qu",
+      "company": {
+        "name": "Dawson Pena Co",
+        "description": "Esse voluptates fac",
+        "contactEmail": "genef@mailinator.com",
+        "contactPhone": "+1 (429) 335-6076"
+      }
+    },
+    {
+      "id": "ffa2",
+      "type": "Full-Time",
+      "title": "Rebecca Wilder",
+      "description": "Minus rerum reprehen",
+      "salary": "Under $50K",
+      "location": "Pariatur Dolorem ir",
+      "company": {
+        "name": "Hess Norton Trading",
+        "description": "Sed cupiditate ad ut",
+        "contactEmail": "soxasebi@mailinator.com",
+        "contactPhone": "+1 (492) 974-2519"
+      }
+    },
+    {
+      "id": "8a3f",
+      "type": "Remote",
+      "title": "Buffy Atkinson",
+      "description": "Debitis est quaerat",
+      "salary": "$125K - $150K",
+      "location": "Veritatis sapiente v",
+      "company": {
+        "name": "Burns Gross Inc",
+        "description": "Libero pariatur Mol",
+        "contactEmail": "covyzyjege@mailinator.com",
+        "contactPhone": "+1 (657) 111-4132"
+      }
+    },
+    {
+      "id": "b7b4",
+      "type": "Internship",
+      "title": "Yeo Mcbride",
+      "description": "Magnam et cupidatat ",
+      "salary": "Over $200K",
+      "location": "Omnis recusandae Si",
+      "company": {
+        "name": "Haynes and Hancock Trading",
+        "description": "Ipsa sit qui non d",
+        "contactEmail": "bisomup@mailinator.com",
+        "contactPhone": "+1 (233) 278-2703"
+      }
+    },
+    {
+      "id": "471e",
+      "type": "Remote",
+      "title": "Dakota Logan",
+      "description": "Non voluptas eaque e",
+      "salary": "$100K - $125K",
+      "location": "Veritatis sed minus ",
+      "company": {
+        "name": "Patel Garza Associates",
+        "description": "Non consectetur sin",
+        "contactEmail": "qypaqovax@mailinator.com",
+        "contactPhone": "+1 (515) 538-6999"
+      }
+    },
+    {
+      "id": "947b",
+      "type": "Full-Time",
+      "title": "Kamal Holmes",
+      "description": "Laudantium sed haru",
+      "salary": "$60K - $70K",
+      "location": "Aut ducimus nisi do",
+      "company": {
+        "name": "Paul and Salas Inc",
+        "description": "Esse possimus inven",
+        "contactEmail": "reposipi@mailinator.com",
+        "contactPhone": "+1 (794) 626-5799"
+      }
+    },
+    {
+      "id": "bdca",
+      "type": "Full-Time",
+      "title": "Ulysses Navarro",
+      "description": "Dolor quas exercitat",
+      "salary": "$90K - $100K",
+      "location": "Aut consequatur Ani",
+      "company": {
+        "name": "Fulton Golden Associates",
+        "description": "Rem voluptatem magna",
+        "contactEmail": "rojep@mailinator.com",
+        "contactPhone": "+1 (234) 378-1762"
+      }
+    },
+    {
+      "id": "162f",
+      "type": "Remote",
+      "title": "Bevis Meyers",
+      "description": "Ex quo eum aut rerum",
+      "salary": "$50K - $60K",
+      "location": "Eum fugit anim quos",
+      "company": {
+        "name": "Berger Coffey Plc",
+        "description": "Amet aute veniam m",
+        "contactEmail": "pexobusaw@mailinator.com",
+        "contactPhone": "+1 (835) 606-7441"
+      }
+    },
+    {
+      "id": "31b1",
+      "type": "Internship",
+      "title": "Vanna Livingston",
+      "description": "Est eaque perspiciat",
+      "salary": "$50K - $60K",
+      "location": "Eaque commodo culpa ",
+      "company": {
+        "name": "Kane Bray Trading",
+        "description": "Et dolore libero ips",
+        "contactEmail": "zadu@mailinator.com",
+        "contactPhone": "+1 (696) 452-8872"
+      }
+    },
+    {
+      "type": "Remote",
+      "title": "Senior Vue Developer",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
+      "salary": "$90K - $100K",
+      "location": "Boston, MA",
+      "company": {
+        "name": "NewTek Solutions, Inc.",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-3333"
+      },
+      "id": "67d8"
+    }
+  ]
+}
